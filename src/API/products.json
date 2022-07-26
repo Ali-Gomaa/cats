@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "angry Cat",
+        "price": 100,
+        "image": "/imgs/1.jpg",
+        "description": "loream ibsuem is not very good"
+    },
+    {
+        "id": 2,
+        "name": "white Cat",
+        "price": 150,
+        "image": "/imgs/2.jpg",
+        "description": "loream ibsuem is not very good"
+    },
+    {
+        "id": 3,
+        "name": "quite Cat",
+        "price": 50,
+        "image": "/imgs/3.jpg",
+        "description": "loream ibsuem is not very good"
+    },
+    {
+        "id": 4,
+        "name": "khebra Cat",
+        "price": 200,
+        "image": "/imgs/4.jpg",
+        "description": "loream ibsuem is not very good"
+    }
+]
